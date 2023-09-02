@@ -1,4 +1,4 @@
-## API calls for GET and POST movies using https://swapi.dev/api/films and Google Firebase
+## API for GET and POST (Movies) using https://swapi.dev/api/films and Google Firebase
 
 ## Screenshot
 
